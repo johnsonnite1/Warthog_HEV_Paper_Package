@@ -1,0 +1,53 @@
+Publisher/author-repository records consulted 2 November 2026
+
+Abiola et al. 2025 quadrotor control
+https://journals.abuad.edu.ng/index.php/ajerd/article/view/1388
+DOI 10.53982/ajerd.2025.0802.19-j
+
+Abiola et al. 2026 hybrid hydrogen-battery storage
+https://www.adeletters.com/no-2-1-2026/
+DOI 10.46793/adeletters.2026.5.2.1
+
+Xue and Jiao 2021 HEV cascade control
+https://www.sciencedirect.com/science/article/pii/S0019057820304614
+DOI 10.1016/j.isatra.2020.10.058
+
+Zhang et al. 2022 robust vehicle speed tracking
+https://www.mdpi.com/1424-8220/22/5/1787
+DOI 10.3390/s22051787
+
+Li and Xu 2021 partial-form MFAC
+https://www.mdpi.com/2076-0825/10/9/223
+DOI 10.3390/act10090223
+
+Zhang, Cen and Huang 2024 MFAC overview
+https://www.mdpi.com/2032-6653/15/9/396
+DOI 10.3390/wevj15090396
+
+Xu et al. 2025 hybrid model/data vehicle control
+https://ieeexplore.ieee.org/abstract/document/11153452
+DOI 10.1109/ACCESS.2025.3606861
+
+Li et al. 2021 MFAC vs H-infinity and PI
+https://wrap.warwick.ac.uk/id/eprint/157048/
+DOI 10.1016/j.renene.2021.08.050
+
+Liu et al. 2022 robust MFAC HEV energy management
+https://www.mdpi.com/1996-1073/15/20/7467
+DOI 10.3390/en15207467
+
+Heydari et al. 2025 robust MFAC and anti windup
+https://onlinelibrary.wiley.com/doi/10.1002/acs.3907
+DOI 10.1002/acs.3907
+
+MathWorks plant and synthesis documentation
+https://www.mathworks.com/matlabcentral/fileexchange/92820-hybrid-electric-vehicle-model-in-simscape
+https://github.com/mathworks/Simscape-Hybrid-Electric-Vehicle-Model/releases/tag/v1.6.1
+https://www.mathworks.com/help/robust/ref/dynamicsystem.mixsyn.html
+
+Novelty scope
+The search did not establish the absence of all earlier H-infinity/MFAC
+hybrids. Related hybrid model/data controllers exist, including Xu et al.
+2025. Accordingly the manuscript claims an HEV implementation, explicitly
+specified actuator-referenced blending arrangement and measured tradeoffs;
+it does not claim the first hybrid robust/adaptive controller.
